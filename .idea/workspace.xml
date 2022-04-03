@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="daaa56ce-f117-49c5-a52e-535502b8dfa7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Array/Array_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DFS_BFS/Target_number.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled104/Practice/DFS_BFS.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled104/Practice/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DFS_BFS/String_DFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DFS_BFS/String_DFS.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +87,7 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Array_1">
+  <component name="RunManager" selected="Application.Prime_Search">
     <configuration name="Array_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array.Array_1" />
       <module name="untitled104" />
@@ -114,6 +111,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Prime_Search" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BruteForce.Prime_Search" />
+      <module name="untitled104" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BruteForce.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array.Solution" />
       <module name="untitled104" />
@@ -129,6 +139,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Prime_Search" />
         <item itemvalue="Application.Array_1" />
         <item itemvalue="Application.Solution" />
       </list>
