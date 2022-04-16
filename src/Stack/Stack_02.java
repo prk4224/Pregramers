@@ -1,6 +1,6 @@
 package Stack;
 
-// javascript
+ //javascript
 function solution(priorities, location) {
     let answer = 0;
     let cut = 1;
