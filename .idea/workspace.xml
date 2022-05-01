@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="daaa56ce-f117-49c5-a52e-535502b8dfa7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DFS_BFS/max_Length_Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stack/Stack04.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled104/DFS_BFS/Group_max_cut.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled104/DFS_BFS/Group_max_cut.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,13 +86,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunManager" selected="Application.max_Length_Node">
-    <configuration name="Array_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.Array_1" />
+  <component name="RunManager" selected="Application.K_under">
+    <configuration name="Group_max_cut" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DFS_BFS.Group_max_cut" />
       <module name="untitled104" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array.*" />
+          <option name="PATTERN" value="DFS_BFS.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,8 +100,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Group_max_cut" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DFS_BFS.Group_max_cut" />
+    <configuration name="K_under" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DFS_BFS.K_under" />
       <module name="untitled104" />
       <extension name="coverage">
         <pattern>
@@ -157,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.K_under" />
         <item itemvalue="Application.max_Length_Node" />
         <item itemvalue="Application.Stack04" />
         <item itemvalue="Application.Group_max_cut" />
         <item itemvalue="Application.Prime_Search" />
-        <item itemvalue="Application.Array_1" />
       </list>
     </recent_temporary>
   </component>
@@ -222,43 +219,43 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/DFS_BFS/max_Length_Node.java</url>
-          <line>39</line>
+          <line>40</line>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/DFS_BFS/max_Length_Node.java</url>
-          <line>40</line>
+          <line>41</line>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/DFS_BFS/max_Length_Node.java</url>
-          <line>41</line>
+          <line>42</line>
           <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/DFS_BFS/max_Length_Node.java</url>
-          <line>44</line>
+          <line>45</line>
           <option name="timeStamp" value="13" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/DFS_BFS/max_Length_Node.java</url>
-          <line>37</line>
+          <line>38</line>
           <option name="timeStamp" value="14" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/DFS_BFS/max_Length_Node.java</url>
-          <line>57</line>
+          <line>58</line>
           <option name="timeStamp" value="19" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/DFS_BFS/max_Length_Node.java</url>
-          <line>60</line>
-          <option name="timeStamp" value="20" />
+          <url>file://$PROJECT_DIR$/src/DFS_BFS/K_under.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="21" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/DFS_BFS/max_Length_Node.java</url>
-          <line>62</line>
-          <option name="timeStamp" value="21" />
+          <url>file://$PROJECT_DIR$/src/DFS_BFS/K_under.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="22" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/DFS_BFS/Group_max_cut.java</url>
@@ -271,7 +268,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/DFS_BFS/max_Length_Node.java</url>
-          <line>52</line>
+          <line>53</line>
           <properties class="DFS_BFS.max_Length_Node" method="bfs">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
