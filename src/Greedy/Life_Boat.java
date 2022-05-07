@@ -5,17 +5,16 @@ public class Life_Boat {
     public int solution(int[] people, int limit) {
         int answer = 0;
         Arrays.sort(people);
-        ArrayList arr = new ArrayList<>();
 
-        for(int i : people){
-            arr.add(i);
+        ArrayDeque<Integer> arr = new ArrayDeque<>(50001);
+        for(int i : people) arr.add(i);
+
+
+        while(arr.isEmpty() == false) {
+            int weight = arr.pollLast();
+            if(arr.isEmpty() == false && weight + arr.peekFirst() <= limit) { arr.pollFirst(); }
+            answer++;
         }
-        int curr = 0;
-
-
-
-        if(curr > 0) answer++;
-
         return answer;
     }
 }
