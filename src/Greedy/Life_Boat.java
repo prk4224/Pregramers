@@ -5,6 +5,10 @@ public class Life_Boat {
     public int solution(int[] people, int limit) {
         int answer = 0;
         Arrays.sort(people);
+        String n[][] = {{"jdklfajdslkf"},{"fjkasjlkfjak"}};
+
+        int N = n.length;
+        int M = n[0].length;
 
         ArrayDeque<Integer> arr = new ArrayDeque<>(50001);
         for(int i : people) arr.add(i);
