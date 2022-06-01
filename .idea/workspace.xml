@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="daaa56ce-f117-49c5-a52e-535502b8dfa7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Greedy/Iron_suit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Greedy/Last_And_First.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack/Skill_Development.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Greedy/Life_Boat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Greedy/Life_Boat.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
